@@ -36,4 +36,9 @@ so when we want to get inputs from user we have to use this Scanner class<br>
 the basic of java code you can visite following link: <br>
 https://github.com/JehanKandy/First-Coding-with-JAVA
 
+<br><br>
+
+then we have ti create a Scanner object
+
+        Scanner stdname = new Scanner(System.in);
 
