@@ -25,3 +25,9 @@ java.util.scanner
       
 <br>     
 in oder  to above code 
+
+        import java.util.Scanner;
+        
+There is a package named util. it has Scanner class
+
+
