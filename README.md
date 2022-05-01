@@ -4,7 +4,8 @@ java.util.scanner
 <b>How to use java Scanner </b>
 
 <b>Code Explain</b> 
-br>
+<br>
+
         import java.util.Scanner;
 
         public class scanner_java {
