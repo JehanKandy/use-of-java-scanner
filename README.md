@@ -22,3 +22,6 @@ java.util.scanner
                 System.out.println("You Name is : "+fname+" "+lname);
             }
         }
+      
+<br>     
+in oder  to above code 
