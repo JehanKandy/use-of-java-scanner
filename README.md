@@ -54,7 +54,7 @@ last Name: <br>
 <br><br>
 
 
-then in last step i concat the first name and last name as following<br>
+then in last step i concatenation the first name and last name as following<br>
 
         System.out.println("You Name is : "+fname+" "+lname);
         
