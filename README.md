@@ -53,3 +53,14 @@ last Name: <br>
         String lname = stdname.nextLine();
 <br><br>
 
+
+then in last step i concat the first name and last name as following<br>
+
+        System.out.println("You Name is : "+fname+" "+lname);
+        
+Thank you...!
+
+
+******************************************************
+
+
