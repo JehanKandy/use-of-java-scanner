@@ -42,3 +42,11 @@ then we have ti create a Scanner object
 
         Scanner stdname = new Scanner(System.in);
 
+Then I get the first name as 
+<br> String named fname 
+
+<br>and also it same for the last name
+<br>
+String fname = stdname.nextLine();
+String lname = stdname.nextLine();
+
