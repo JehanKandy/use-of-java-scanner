@@ -47,6 +47,9 @@ Then I get the first name as
 
 <br>and also it same for the last name
 <br>
-String fname = stdname.nextLine();
-String lname = stdname.nextLine();
+first Name: <br>
+        String fname = stdname.nextLine();
+last Name: <br>
+        String lname = stdname.nextLine();
+<br><br>
 
