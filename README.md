@@ -3,7 +3,7 @@ java.util.scanner
 <br><br>
 <b>How to use java Scanner </b>
 
-
+<b>Code Explain</b> 
         import java.util.Scanner;
 
         public class scanner_java {
